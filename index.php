@@ -108,13 +108,13 @@
                                 คอร์สเรียน
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="index?id=1">HTML + CSS</a>
-                                <a class="dropdown-item" href="#">PHP Laravel</a>
-                                <a class="dropdown-item" href="#">React + NodeJS</a>
-                                <a class="dropdown-item" href="#">Ruby on Rails</a>
-                                <a class="dropdown-item" href="#">Python + Golang</a>
+                                <a class="dropdown-item" href="class.php?id=1">HTML + CSS</a>
+                                <a class="dropdown-item" href="class.php?id=2">PHP Laravel</a>
+                                <a class="dropdown-item" href="class.php?id=3">React + NodeJS</a>
+                                <a class="dropdown-item" href="class.php?id=4">Ruby on Rails</a>
+                                <a class="dropdown-item" href="class.php?id=5">Python + Golang</a>
                                 <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#">ดูคอร์สทั้งหมด</a>
+                                <a class="dropdown-item" href="class.php">ดูคอร์สทั้งหมด</a>
                                 </div>
                             </li>
                                 <div class="verticalLine">
